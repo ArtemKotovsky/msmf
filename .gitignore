@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# Paths
+
+/bin/
+/obj/
+/lib/
+/src/.vs/msmf/v15/*.suo
+/src/.vs/msmf/v15/Browse.VC.db
+/src/msmf/*.user
